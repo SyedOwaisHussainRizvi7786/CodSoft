@@ -1,8 +1,8 @@
-<h2>Projects</h2>
-<h4>
+<h1>Projects:</h1>
+<h3>
   <ul>
     <li>CALCULATOR</li><br>
-    <li>PORTFOLIO</li><br>
-    <li>LANDING PAGE</li>
+    <li>LANDING PAGE</li><br>
+    <li>PORTFOLIO</li>
   </ul>
-</h4>
+</h3>

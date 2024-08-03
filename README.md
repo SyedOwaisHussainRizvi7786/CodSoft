@@ -1,4 +1,4 @@
-<h1>Projects</h1>
+<h1>CodSoft Internship Projects</h1>
 <h3>
   <ul>
     <li>CALCULATOR</li><br>

@@ -1,3 +1,8 @@
-# CodSoft
-This is My Calculator Codes using Html, CSS and JavaScript.
-Author name Aly ------------
+<h2>Projects</h2>
+<h3>
+  <ul>
+    <li>CALCULATOR</li><br>
+    <li>PORTFOLIO</li><br>
+    <li>LANDING PAGE</li>
+  </ul>
+</h3>
